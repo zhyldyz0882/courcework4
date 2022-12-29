@@ -75,3 +75,14 @@ button {
   border-radius: 10px;
   border-end-start-radius: unset;
 }
+.i-3 {
+  position: absolute;
+  width: 500px;
+  height: 523px;
+  left: 1020.5px;
+  top: 180.15px;
+  background-color: rgb(157, 210, 210);
+  border-radius: 50px;
+  border-end-end-radius: unset;
+  }
+  
