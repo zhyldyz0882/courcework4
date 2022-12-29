@@ -12,6 +12,10 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 800;
   color: black;
 }
+
+.i-1 {
+  padding-left: 150px;
+}
 .a-1 {
   color: black;
   padding-left: 38px;
@@ -31,4 +35,11 @@ h1,h2,h3,h4,h5,h6 {
   color: black;
   padding-left: 38px;
   text-decoration: none;
+}
+button {
+  margin-left: 150px;
+  padding: 15px 55px;
+  color: white;
+  background-color: rgb(90, 168, 168);
+  border-radius: 10px;
 }
