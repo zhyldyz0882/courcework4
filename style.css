@@ -187,3 +187,6 @@ button {
     margin-left: 150px;
     margin-bottom: 100px;
   }
+  .card .card-content {
+    padding: 10px 15px;
+  }
