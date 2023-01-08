@@ -193,3 +193,6 @@ button {
   .card.card-horizonal {
     display: flex;
   }
+  .card-horizonal .card-image {
+    width: 40%;
+  }
