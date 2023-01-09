@@ -210,3 +210,9 @@ button {
     height: 300px;
     width: 540px;
   }
+  .card.card-horizonal {
+    display: flex;
+  }
+  .card-horizonal .card-image-1 {
+    width: 800px;
+  }
