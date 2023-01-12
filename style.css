@@ -330,5 +330,14 @@ input {
  height: 300px;
   margin-left: 600px;
   margin-top: -250px;
-  
 }
+label{
+  padding-left: 45px;
+}
+.description{
+  padding-left :45px;
+}
+
+.button{
+  margin-left: 670px;
+  }
