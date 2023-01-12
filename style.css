@@ -295,14 +295,15 @@ h3 {
   width: 40%;
 }
 #hhhh-1 {
-  padding-left: 20px;
+  padding-left: 10px;
 }
 #p-11 {
   margin-left: 20px;
 }
 #hh-1 {
   color: #467567;
-  width: 10px;
+  width: 15px;
+  margin-left:80px;
 }
 #hhh-2 {
   color: #467567;
@@ -340,4 +341,12 @@ label{
 
 .button{
   margin-left: 670px;
+  }
+  .text {
+    margin-right: 130px;
+    color: black;
+  }
+  #text {
+    margin-right: 150px;
+    color: #467567 ;
   }
