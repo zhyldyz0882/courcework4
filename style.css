@@ -177,17 +177,16 @@ button {
 .col-2-2 {
   flex: 100% 0 0;
 }
+
 .hh-1 {
-  margin-left: 550px;
-}
-.hh-1 {
-  margin-left: 650px;
+  margin-left: 590px;
 }
 .pp-1 {
-  margin-left: 570px;
-}
+
+  margin-left: 480px;
+ }
 .pp-2 {
-  margin-left: 670px;
+  margin-left: 560px;
 }
 
 .card .card-image {
