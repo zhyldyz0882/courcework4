@@ -224,7 +224,7 @@ button {
 }
 .hhh-1 {
   margin-left: 150px;
-} 
+}
 a {
   color: black;
   margin-left: 100px;
@@ -246,44 +246,45 @@ a {
   height: 300px;
   margin-left: 82px;
 }
- .card-image-4 {
-    width: 350px;
-   height: 350px;
-   margin-left: 30px;
-  }
-  h3 {
-    margin-left: 140px;
-    color: #7fc7b2;
-  } 
-  #p-2 {
-    padding-left: 70px;
-  }
-  #p-3 {
-    padding-left: 18px;
-  }
-  #h-1 {
-    margin-left: 65px;
-  }
-  #img-1 {
-    padding-left: 150px;
-  }
-  #img-2 {
-    padding-left: 130px;
-    padding-bottom: 70px;
-  }
-  #img-3 {
-    padding-left: 130px;
-    padding-bottom: 90px;
-  }
-  #img-4 {
-    padding-left: 130px;
-    padding-bottom: 40px;
-  }
-  .card .card-image-5 {
-    margin-left: 150px;
-    height: 500px;
-  }
-  .card .card-content-5 {
-    background-color: #c5ebe0;
-   
-  }      
+.card-image-4 {
+  width: 350px;
+  height: 350px;
+  margin-left: 30px;
+}
+h3 {
+  margin-left: 140px;
+  color: #7fc7b2;
+}
+#p-2 {
+  padding-left: 70px;
+}
+#p-3 {
+  padding-left: 18px;
+}
+#h-1 {
+  margin-left: 65px;
+}
+#img-1 {
+  padding-left: 150px;
+}
+#img-2 {
+  padding-left: 130px;
+  padding-bottom: 70px;
+}
+#img-3 {
+  padding-left: 130px;
+  padding-bottom: 90px;
+}
+#img-4 {
+  padding-left: 130px;
+  padding-bottom: 40px;
+}
+.card .card-image-5 {
+  margin-left: 150px;
+  height: 500px;
+}
+.card .card-content-5 {
+  background-color: #c5ebe0;
+  padding: 10px 15px;
+  margin-right: 150px;
+}
