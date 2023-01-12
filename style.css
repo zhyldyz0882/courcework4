@@ -316,3 +316,10 @@ h3 {
   padding-left: 490px;
   margin-top: -250px;
 }
+input {
+  border: none;
+  border-bottom: 1px solid black;
+  width:800px ;
+  margin-left: 40px;
+
+}
