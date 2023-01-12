@@ -288,3 +288,9 @@ h3 {
   padding: 10px 15px;
   margin-right: 150px;
 }
+.card.card-horizonal-5 {
+  display: flex;
+}
+.card-horizonal-5 .card-image-5 {
+  width: 40%;
+}
