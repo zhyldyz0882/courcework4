@@ -182,9 +182,8 @@ button {
   margin-left: 590px;
 }
 .pp-1 {
-
   margin-left: 480px;
- }
+}
 .pp-2 {
   margin-left: 560px;
 }
@@ -232,9 +231,12 @@ a {
   padding-left: 100px;
 }
 .ppp-2 {
-  margin-left: 530px;
+  margin-left: 460px;
 }
 
+.card-image-1 {
+  margin-left: 150px;
+}
 .card-image-2 {
   width: 350px;
   height: 350px;
@@ -302,7 +304,7 @@ h3 {
 #hh-1 {
   color: #467567;
   width: 15px;
-  margin-left:80px;
+  margin-left: 100px;
 }
 #hhh-2 {
   color: #467567;
@@ -319,33 +321,33 @@ h3 {
 input {
   border: none;
   border-bottom: 1px solid black;
-  width:800px ;
+  width: 800px;
   margin-left: 40px;
   padding: 10px 10px;
 }
 
-.footer-card{
+.footer-card {
   border: 1px solid green;
- width: 920px;
- height: 300px;
+  width: 920px;
+  height: 300px;
   margin-left: 600px;
   margin-top: -250px;
 }
-label{
+label {
   padding-left: 45px;
 }
-.description{
-  padding-left :45px;
+.description {
+  padding-left: 45px;
 }
 
-.button{
+.button {
   margin-left: 670px;
-  }
-  .text {
-    margin-right: 130px;
-    color: black;
-  }
-  #text {
-    margin-right: 150px;
-    color: #467567 ;
-  }
+}
+.text {
+  margin-right: 130px;
+  color: black;
+}
+#text {
+  margin-right: 150px;
+  color: #467567;
+}
