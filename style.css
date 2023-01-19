@@ -202,10 +202,14 @@ button {
 .card-horizonal .card-image {
   width: 40%;
 }
-.card .card-image-1 {
-  width: 100%;
+.card .card-image-2 {
+  width: 49%;
+  height:300px ;
   margin-left: 150px;
   margin-bottom: 80px;
+}
+.by{
+padding-left: 50px; 
 }
 .card .card-content-1 {
   padding: 10px 15px;
@@ -218,10 +222,12 @@ button {
 }
 .card-horizonal .card-image-1 {
   width: 800px;
-  height: 300px;
+  height: 600px;
 }
+
+
 .hhh-1 {
-  margin-left: 150px;
+  margin-left: 50px;
 }
 a {
   color: black;
